@@ -31,7 +31,7 @@ nav {
     justify-content: end;
 }
 header {
-    background-image: url('img/studio.jpg');
+    background-image: url('studio.jpg');
     height: 900px;
 }
 .main-text {
@@ -200,7 +200,7 @@ padding: 80px;
 }
 .block-6 {
     height: 570px;
-    background-image: url('img/studio.png');
+    background-image: url('studio.png');
 }
 .block-6 h3 {
     padding-top: 160px;
